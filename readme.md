@@ -1,6 +1,6 @@
-# Site da Agência de Marketing
+# Site Conecta Agência de Marketing
 
-Bem-vindo ao nosso site da agência de marketing! Este é um repositório que contém o código-fonte e os arquivos para o nosso site online. Este site foi desenvolvido com HTML, CSS, JavaScript e Bootstrap, e tem como objetivo fornecer informações sobre nossos serviços de marketing e criar uma experiência de usuário excepcional.
+Bem-vindo ao nosso site da agência Conecta ! Este é um repositório que contém o código-fonte e os arquivos para o nosso site online. Este site foi desenvolvido com HTML, CSS, JavaScript e Bootstrap, e tem como objetivo fornecer informações sobre nossos serviços de marketing e criar uma experiência de usuário excepcional.
 
 ## Tecnologias Utilizadas
 
@@ -22,8 +22,7 @@ Em nosso site, você encontrará informações detalhadas sobre os serviços de 
 
 Se você deseja entrar em contato conosco para obter mais informações ou discutir uma colaboração, visite a página "Contato" em nosso site, onde você encontrará os detalhes para nos alcançar.
 
-Obrigado por visitar nosso site da agência de marketing! Esperamos que você tenha uma experiência agradável e enriquecedora enquanto explora nossos serviços.
+
 
 ---
 
-Este site é um projeto de exemplo e não inclui informações reais da agência de marketing. Sinta-se à vontade para usar este modelo de README para documentar o seu próprio site da agência de marketing.
