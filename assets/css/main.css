@@ -233,9 +233,7 @@ section {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
-.logo-header {
-  width: 100%;
-}
+
 .topbar {
   background: linear-gradient(90deg, #11F9A0 -2.02%, #11E5D4 32.41%, #3AE5B9 91.59%);
   height: 40px;
@@ -302,7 +300,7 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
+  width: 12rem;
   margin-right: 6px;
 }
 
